@@ -10,6 +10,21 @@ import java.util.Set;
  * 
  * @author sapan (sapan@cs.wisc.edu)
  * 
+ * M
+ * A
+ * K
+ * I
+ * N
+ * G
+ * 
+ * C
+ * H
+ * A
+ * N
+ * G
+ * E
+ * S
+ * 
  */
 public class Graph<E> implements GraphADT<E> {
     
